@@ -1,20 +1,13 @@
-# Data Scientist Nanodegree
+# Regression Model
 
-## Data Engineering
 
-## Project: Disaster Response Pipeline
+
 
 ## Table of Contents
 
 - [Project Overview](#overview)
 - [Project Components](#components)
-  - [ETL Pipeline](#etl_pipeline)
-  - [ML Pipeline](#ml_pipeline)
-  - [Flask Web App](#flask)
 - [Running](#run)
-  - [Data Cleaning](#cleaning)
-  - [Training Classifier](#training)
-  - [Starting the Web App](#starting)
 - [Conclusion](#conclusion)
 - [Files](#files)
 - [Software Requirements](#sw)
