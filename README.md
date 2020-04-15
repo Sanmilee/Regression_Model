@@ -5,45 +5,32 @@
 
 ## Table of Contents
 
-- [Project Overview](#overview)
-- [Project Components](#components)
-- [Running](#run)
+- [Overview](#overview)
+- [Requirements](#requirements)
 - [Conclusion](#conclusion)
-- [Files](#files)
-- [Software Requirements](#sw)
-- [Credits and Acknowledgements](#credits)
 
 ***
 
-## 1. Project Overview
+### 1. Overview
 
-In this project, I'll apply data engineering to analyze disaster data from 
-
-
-
-## 2. Project Components
+In this project, I'm exploring the analysis of predicting product sales based on TV, Radio and Newspaper advertisements using a multilayer perceptron model. The model training loss is computed using **mean_squared_error**.
 
 
 
 
-## 3. Running
+### 2. Requirements
+
+- Python 3
+- Pandas
+- Numpy
+- sklearn
+- keras
+- seaborn
+- matplotlib
 
 
 
+### 3. Conclusion
 
-## 5. Files
+The model design has 4 neural layes and trained on **1000 epoch** and evaluated on the **mean_absolute_error and mean_squared_error** metrics respectively. 
 
-
-
-
-
-## 6. Software Requirements
-
-This project
-
-
-
-
-## 7. Credits and Acknowledgements
-
-Thanks 
